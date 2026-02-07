@@ -15,7 +15,7 @@ export default function YilanRPWebsite() {
           宜蘭縣 RP
         </motion.h1>
         <p className="text-lg md:text-xl text-slate-300 mb-8">
-          苗屬一夏 ERLC ｜雨城世界觀沉浸式角色扮演
+          描述一下ERLC ｜雨城世界觀沉浸式角色扮演
         </p>
         <Button className="text-lg px-6 py-4 rounded-2xl shadow-xl">
           加入我們的世界
